@@ -66,7 +66,3 @@ The gated 4-state filter fails: it rejects 187 of the 270 fixes, 184 of them in 
 ## Running
 
 The data file came with the course and is not in this repository. Save it as `navigation_data.mat` next to `main_p1.m` and run `main_p1.m` in MATLAB. Figures are saved as PNG through `save_fig.m`.
-
-## AI use
-
-Claude (Anthropic) wrote the MATLAB implementation from my instructions and corrected my errors. It also explained chi-square confidence intervals and the NEES/NIS tests. All numbers above come from running this code on the course data.
