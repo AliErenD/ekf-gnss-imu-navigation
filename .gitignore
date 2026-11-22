@@ -1,0 +1,6 @@
+*.mat
+*.zip
+*.pdf
+*.png
+*.asv
+!figures/*.png
